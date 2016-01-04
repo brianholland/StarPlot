@@ -12,3 +12,6 @@ python StarPlot.py
 at the command line.  You'll have to be on the 'Net since it grabs the coordinates from 
 http://www.atlasoftheuniverse.com/50lys.html
 
+
+The result looks like this:
+<a href='Stars.png'/>
