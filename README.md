@@ -15,9 +15,10 @@ python StarPlot.py
 ```
 
 at the command line.  You'll have to be on the 'Net since it grabs the coordinates from 
- http://www.atlasoftheuniverse.com/50lys.html.  Also, please visit that page
+ http://www.atlasoftheuniverse.com/50lys.html.  Also, please visit that page.
 
 
-The result looks like this - depending how you rotate it of course.
+The result looks like this - depending how you rotate it of course.  You'll see in the code
+how you can turn on labels for some stars.
 
 <img src='Stars.png'/>
