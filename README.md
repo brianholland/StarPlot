@@ -1,16 +1,17 @@
 #StarPlot
---------
 
-This repo is a short example of scraping the web, cleaning a bit of data with Pandas and Python,
-and plotting the results in 3-D.
+This repo is a short example of 
+1. scraping the web, 
+1. cleaning  data with Pandas and Python, and 
+1. plotting the results in 3-D.
 
-The example is the brighter stars within 50 lightyears. The plot can be turned around interactively.
-
-Run the code by downloading the Python bit, and typing
+The example is the brighter stars within 50 light-years. The plot can be turned around 
+interactively when it's run.  Speaking of which: run the code by downloading the Python
+bit, and typing
 <pre>python StarPlot.py</pre>
-at the command line.  You'll have to be on the 'Net since it grabs the coordinates from  http://www.atlasoftheuniverse.com/50lys.html.
+at the command line.  You'll have to be on the 'Net since it grabs the coordinates from 
+ http://www.atlasoftheuniverse.com/50lys.html.  Also, please visit that page
 
 
-The result looks like this:
-<br/>
-<img src='Stars.png'/>
+The result looks like this - depending how you rotate it of course.
+<br/><img src='Stars.png'/>
