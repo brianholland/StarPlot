@@ -14,4 +14,4 @@ http://www.atlasoftheuniverse.com/50lys.html
 
 
 The result looks like this:
-<a href='Stars.png'/>
+<img src='Stars.png'/>
