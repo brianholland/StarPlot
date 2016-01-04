@@ -7,14 +7,14 @@ This repo is a short example of
 1. plotting the results in 3-D.
 
 The example is the brighter stars within 50 light-years. The plot can be turned around 
-interactively when it's run.  Speaking of which: run the code by downloading the Python
-bit, and typing
+interactively when it's run.  Speaking of which: run the code in StarPlot.py on your machine
+by  downloading it and typing
 
 ```
 python StarPlot.py
 ```
 
-at the command line.  You'll have to be on the 'Net since it grabs the coordinates from 
+at the command line in its directory.  You'll have to be on the 'Net since it grabs the coordinates from 
  http://www.atlasoftheuniverse.com/50lys.html.  Also, please visit that page.
 
 
