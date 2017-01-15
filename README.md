@@ -1,4 +1,4 @@
-#StarPlot
+# StarPlot
 
 This repo is a short example of 
 
