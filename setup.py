@@ -9,6 +9,7 @@ setup(name='StarPlot',
       license='MIT',
       packages=['StarPlot'],
       install_requires=[
-          'requests', 'pandas', 'matplotlib', 'numpy', 'bs4', 'mpl_toolkits'
+          'requests', 'pandas', 'matplotlib', 'numpy', 'bs4'
+            #, 'mpl_toolkits' #causes error when installing with pip
        ], 
       zip_safe=False)
